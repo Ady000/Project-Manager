@@ -34,8 +34,8 @@ npm install
 
 	3.	Set up environment variables in a .env file:
 
-PORT=5000
-OPENAI_API_KEY=your_openai_api_key
+### PORT=5000
+•OPENAI_API_KEY=your_openai_api_key
 
 
 	4.	Start the backend server:
