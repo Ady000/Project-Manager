@@ -65,6 +65,7 @@ npm start
 Project Structure
 
 .
+'''
 ├── backend/                   # Backend files
 │   ├── routes/                # API routes
 │   ├── controllers/           # Controller logic
@@ -78,7 +79,7 @@ Project Structure
 │   │   └── package.json       # Frontend dependencies
 │
 ├── README.md                  # Project documentation
-
+'''
 Usage
 	1.	Start the backend and frontend servers as per the setup instructions.
 	2.	Open the frontend in your browser at http://localhost:3000.
@@ -104,10 +105,5 @@ License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact
-
-For questions or collaboration inquiries, reach out via:
-	•	Email: [your-email@example.com]
-	•	GitHub: [GitHub Profile Link]
 
 This README is designed to be professional, detailed, and helpful for anyone viewing your GitHub repository. Feel free to customize the details like email and GitHub profile. Let me know if you want further tweaks!
