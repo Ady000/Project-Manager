@@ -62,24 +62,7 @@ REACT_APP_BACKEND_URL=http://localhost:5000
 
 npm start
 
-Project Structure
 
-.
-'''
-├── backend/                   # Backend files
-│   ├── routes/                # API routes
-│   ├── controllers/           # Controller logic
-│   ├── app.js                 # Main application entry point
-│   └── package.json           # Backend dependencies
-│
-├── frontend/                  # Frontend files
-│   ├── src/
-│   │   ├── components/        # React components
-│   │   ├── App.js             # Main React app entry
-│   │   └── package.json       # Frontend dependencies
-│
-├── README.md                  # Project documentation
-'''
 Usage
 	1.	Start the backend and frontend servers as per the setup instructions.
 	2.	Open the frontend in your browser at http://localhost:3000.
