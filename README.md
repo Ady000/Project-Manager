@@ -2,24 +2,24 @@
 
 Here’s a professional and detailed README file for your project:
 
-Project Manager AI
+## Project Manager AI
 
 An AI-powered project management system that integrates OpenAI’s GPT API to assist in planning, tracking, and managing projects efficiently. Built with Express.js for the backend and React.js for the frontend, this application offers intelligent, real-time assistance to help you stay on top of your project goals.
 
-Features
+### Features
 	•	🧠 AI-Powered Assistance: Leverages GPT to provide intelligent suggestions, project insights, and task management.
 	•	📋 Task Management: Create, update, and track project tasks.
 	•	🌐 Interactive UI: User-friendly interface designed with React.js for seamless interaction.
 	•	⚡ Fast & Scalable: Built on a lightweight Express.js backend for speed and scalability.
 	•	🔗 API Integration: Flexible backend that supports external APIs to enrich project management functionality.
 
-Tech Stack
+### Tech Stack
 	•	Frontend: React.js, Axios
 	•	Backend: Node.js, Express.js
 	•	AI Integration: OpenAI GPT API
 	•	Version Control: Git, GitHub
 
-Setup Instructions
+### Setup Instructions
 
 Backend Setup
 	1.	Navigate to the backend folder:
@@ -88,5 +88,3 @@ License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-
-This README is designed to be professional, detailed, and helpful for anyone viewing your GitHub repository. Feel free to customize the details like email and GitHub profile. Let me know if you want further tweaks!
